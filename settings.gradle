@@ -1,0 +1,3 @@
+
+rootProject.name = "KommunicateChat"
+include ':app', ':kommunicate', ':kommunicateui'
