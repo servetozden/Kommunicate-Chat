@@ -19,7 +19,6 @@ You can edit automatic texts on the kommunicate dashboard. <dt>
 ![](images/emulatorImage.jpeg)
 
 
-
 ## Kommunicate Chat Dashboard <dt>
 You can reply instantly from the Communicate panel.<dt>
 
